@@ -130,7 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-venv_chicken
+venv_chicken_disease_classification/
 env/
 venv/
 ENV/
