@@ -1,0 +1,1 @@
+"This is chicken disease classification project"
